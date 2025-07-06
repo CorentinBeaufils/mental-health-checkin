@@ -1,4 +1,4 @@
-# filepath: c:\Users\trice\Desktop\intership test\MentalHealthCheckIn\README.md
+
 # Mental Health Check-In Platform
 
 A comprehensive mental health monitoring system built with .NET 8 and Next.js.
